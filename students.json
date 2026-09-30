@@ -1,0 +1,14 @@
+{
+  "RFID001": {
+    "id": "2026-001",
+    "name": "Juan Dela Cruz"
+  },
+  "RFID002": {
+    "id": "2026-002",
+    "name": "Maria Santos"
+  },
+  "RFID003": {
+    "id": "2026-003",
+    "name": "Pedro Reyes"
+  }
+}

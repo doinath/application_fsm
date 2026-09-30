@@ -1,0 +1,18 @@
+[
+  {
+    "recorded_at": "2026-09-30T23:42:07",
+    "student_id": "2026-001",
+    "name": "Juan Dela Cruz",
+    "rfid": "RFID001",
+    "scan_time": "12:00",
+    "status": "LATE"
+  },
+  {
+    "recorded_at": "2026-09-30T23:44:29",
+    "student_id": "2026-001",
+    "name": "Juan Dela Cruz",
+    "rfid": "RFID001",
+    "scan_time": "07:00",
+    "status": "EARLY"
+  }
+]
